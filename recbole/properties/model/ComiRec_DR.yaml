@@ -1,0 +1,6 @@
+hidden_size: 128
+relu_layers: 4
+routing_times: 3
+interest_num: 4
+hard_readout: True
+loss_type: 'CE'
